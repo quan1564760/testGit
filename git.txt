@@ -1,1 +1,5 @@
 git dfasdf fdsfasffdsafsdfasdf
+https://medium.com/@therajanmaurya/git-push-pull-with-two-different-account-and-two-different-user-on-same-machine-a85f9ee7ec61
+@MrsColombo I had this problem too but managed to solve it, the error is that ur computer has saved a git username and password so if you shift to another account the error 403 will appear. Below is the solution
+For Windows you can find the keys here:
+control panel > user accounts > credential manager > Windows credentials > Generic credentials
